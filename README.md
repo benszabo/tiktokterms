@@ -1,2 +1,0 @@
-# tiktokterms
-tiktokterms
